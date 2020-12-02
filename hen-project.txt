@@ -1,3 +1,4 @@
 HEN PROJECT
 - Membuat konten 1x dalam 1 bulan
 - forum diskusi
+- membuat aplikasi POS
